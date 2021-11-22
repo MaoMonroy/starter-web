@@ -13,3 +13,7 @@ Sample website with plenty of files for demos
 Esto ya es diferente
 
 ## How To Contribute
+
+### Copyright
+
+Curso de Mao de GIT 2021
