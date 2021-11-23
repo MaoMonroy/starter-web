@@ -12,7 +12,7 @@ Sample website with plenty of files for demos
 
 ## Deployment
 
-Esto ya es diferente
+Esto ya es diferente para tratar con stash
 
 ## How To Contribute
 
