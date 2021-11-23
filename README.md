@@ -4,7 +4,7 @@ This repository is for showing how Git and GitHub work
 
 ## Introduction
 
-Esto es una línea extra.
+Esto es una línea extra co más cambios en características
 
 ## Purpose
 
