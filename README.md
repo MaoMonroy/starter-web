@@ -20,4 +20,4 @@ Replique este repositorio para su uso
 
 ### Copyright
 
-Curso de Mao de GIT 2021
+Curso de Mao de GIT 2021. No te metas con mis derechos
